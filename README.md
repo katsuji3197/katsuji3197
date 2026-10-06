@@ -1,6 +1,6 @@
 # NAKATSUJI Motoki（中辻 基希）
 
-**UI Designer / Frontend Developer** — 某大手流通業テックリード
+**UI Designer / Frontend Developer**
 
 > 技術もデザインも紙一重。技術はデザインであり、デザインは技術です。  
 > どちらも人に寄り添い、問題を解決し、感動を与えることができます。  
